@@ -33,9 +33,19 @@
 .text .sale .button:hover{
   opacity:1;
 }
+.img {
+  background-image: url("../public/images/bgtop.jpg"); 
+  background-size: cover;
+ 
+}
+.img2 {
+  background-image: url("../public/images/bgbottom.jpg"); 
+  background-size: cover;
+ 
+}
 .text{
-  /* background-image: url(../public/images/bgtop.jpg); 
-  background-repeat: no-repeat; 
+  /* background-image: url("./images/bgtop.jpg");  */
+  /* background-repeat: no-repeat; 
   background-position:initial ;
   background-attachment:fixed;
   background-clip: text;

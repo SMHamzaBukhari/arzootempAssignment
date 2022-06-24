@@ -10,7 +10,7 @@ function App() {
 
    <Navbar/>
 
-    <div className="text">
+    <div className="text img">
         <div className="sale">
             <h1><span style={{color: '#fcfcfc'}} > Ramzaan Sale Upto</span>
                 <p style={{ fontSize: '10vw', color: '#FF7D7D', fontWeight: 40, margin: 0}}>
@@ -26,7 +26,7 @@ function App() {
         <img src="../images/acces.png" width='50%' className="rounded mt-5 mb-5" alt="..."/>
 
     </div>
-    <div className="new">
+    <div className="new img2">
         <div className="arrival">
             <h1><span style={{color: '#000'}}> New Arrivals</span>
                 <p style={{ fontSize: '4vw', color:'#FF7D7D', fontWeight: 700, margin: 0}}>
